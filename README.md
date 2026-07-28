@@ -5,3 +5,4 @@
 ## 목차
 
 - [Versioning의 중요성](docs/versioning.md)
+- [PE 포맷 이해하기](docs/pe-format.md)
