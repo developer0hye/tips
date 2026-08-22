@@ -6,3 +6,4 @@
 
 - [Versioning의 중요성](docs/versioning.md)
 - [PE 포맷 이해하기](docs/pe-format.md)
+- [EC2 T 시리즈의 unlimited 모드가 청구서를 터뜨린다](docs/ec2-burstable-cpu-credit.md)
