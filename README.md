@@ -9,3 +9,4 @@
 - [EC2 T 시리즈의 unlimited 모드가 청구서를 터뜨린다](docs/ec2-burstable-cpu-credit.md)
 - [Windows 핸들 누수 — 메모리는 멀쩡한데 프로세스가 죽는다](docs/windows-handle-leak.md)
 - [원인은 하나가 아니다 — 디스크가 가득 찬 서버를 37일간 몰랐던 이유](docs/incident-root-cause-layers.md)
+- [브라우저에서 다 처리해도 서버 비용은 0이 아니다 — WASM과 egress](docs/wasm-egress-cdn.md)
