@@ -13,3 +13,4 @@
 - [효과적인 Agentic System을 만드는 5가지 원칙 — Scalability, Modularity, Continuous Learning, Resilience, Future-proofing](docs/agentic-system-principles.md)
 - [에이전트 시스템의 핵심 구성요소 — Model, Tools, Memory, Knowledge Base, 그리고 Orchestration (교육자료)](docs/agent-core-components.md)
 - [에이전트의 자율성은 스위치가 아니라 다이얼이어야 한다 — 수동 제어에서 완전 자율까지](docs/agent-adjustable-autonomy.md)
+- [에이전트의 단기 메모리와 장기 메모리 — Context Window와 외부 저장소 사이](docs/agent-memory.md)
