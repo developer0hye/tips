@@ -10,3 +10,4 @@
 - [Windows 핸들 누수 — 메모리는 멀쩡한데 프로세스가 죽는다](docs/windows-handle-leak.md)
 - [원인은 하나가 아니다 — 디스크가 가득 찬 서버를 37일간 몰랐던 이유](docs/incident-root-cause-layers.md)
 - [사이버보안 특화 LLM을 위한 학습 용어와 12주 커리큘럼](docs/security-llm-curriculum.md)
+- [효과적인 Agentic System을 만드는 5가지 원칙 — Scalability, Modularity, Continuous Learning, Resilience, Future-proofing](docs/agentic-system-principles.md)
