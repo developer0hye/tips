@@ -15,3 +15,4 @@
 - [에이전트의 자율성은 스위치가 아니라 다이얼이어야 한다 — 수동 제어에서 완전 자율까지](docs/agent-adjustable-autonomy.md)
 - [에이전트의 단기 메모리와 장기 메모리 — Context Window와 외부 저장소 사이](docs/agent-memory.md)
 - [AI-Native SDLC — 코드가 병목이 아니게 된 다음, 프로세스를 어떻게 바꾸나](docs/ai-native-sdlc.md)
+- [관리자 API 인증 누락 방지 팁 — 화면을 숨겨도 API는 열려 있을 수 있다](docs/admin-api-auth-checklist.md)
