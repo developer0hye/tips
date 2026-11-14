@@ -16,3 +16,4 @@
 - [에이전트의 단기 메모리와 장기 메모리 — Context Window와 외부 저장소 사이](docs/agent-memory.md)
 - [AI-Native SDLC — 코드가 병목이 아니게 된 다음, 프로세스를 어떻게 바꾸나](docs/ai-native-sdlc.md)
 - [관리자 API 인증 누락 방지 팁 — 화면을 숨겨도 API는 열려 있을 수 있다](docs/admin-api-auth-checklist.md)
+- [손 안 닿는 장비에 에이전트 프레임워크를 올리며 배운 네 가지 — SSH 다단, 도커 방화벽, 컨텍스트, 그리고 "뜬다 ≠ 된다"](docs/remote-agent-deploy-gotchas.md)
